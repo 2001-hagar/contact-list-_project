@@ -88,7 +88,6 @@ label{
     width: 20px;
 }
 img{
-    object-fit: none;
     transform: scale(0.5,0.5);
     border-radius: 200px;
    margin-left: 570px;
