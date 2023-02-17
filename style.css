@@ -1,0 +1,97 @@
+
+#add{
+    width: 100px;
+    margin-left:450px;
+    height: 50px;
+    border-radius: 20px;
+    font-size: large;
+    background-color:rgb(201, 206, 211);
+    color: rgb(8, 4, 4);
+}
+input{
+    width: 500px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: rgb(248, 222, 255);
+}
+
+table{
+    margin-left: 0px;
+    width: 640px;
+
+}
+
+th {
+    background-color:rgb(201, 206, 211);
+    color: rgb(23, 8, 26);   
+ }
+ td {
+        border: 1px solid black;
+        border-style: none;
+        border-radius: 10px;
+        color: rgb(4, 3, 5);
+        width: 1000px;
+
+        
+      }
+#newcontact{
+    position: relative;
+    width: 500px;
+    height: 290px;
+    margin:auto;
+    margin-top: 190px;
+    background-color: rgb(18, 10, 56);
+}
+#list_contact{
+    display: none;
+    width: 600px;
+    position: relative;
+}
+legend {
+    display: block;
+    padding-left: 2px;
+    padding-right: 2px;
+    border:black;
+    font-style:normal;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(255, 245, 150);
+    color: rgb(23, 8, 26);
+    border-radius:20px;
+ }
+fieldset{
+    border-radius: 50px;
+background-color: white;
+position: absolute;
+
+
+}
+.BODY{
+    background-color: rgba(255, 255, 255, 0.637);
+   
+    overflow-y: scroll;
+    font-size: 24px ; 
+    width: 700px;
+    height: 700px;
+    color: white;
+    border-radius: 50px;
+    margin-left: 400px;
+}
+body{
+background-image: url(https://respectsolution.com/wp-content/uploads/2019/04/contact-us-background-image-4.jpg);
+}
+
+
+label{
+    background-color:rgb(201, 206, 211);
+    border-radius: 10px;
+    color: rgb(73, 35, 109);
+    width: 20px;
+}
+img{
+    object-fit: none;
+    transform: scale(0.5,0.5);
+    border-radius: 200px;
+   margin-left: 570px;
+}
+
+
