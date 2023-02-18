@@ -95,7 +95,7 @@ img{
 body, html{
     height: 100%;
 }
-@media (min-width: 600px) {
+@media (max-width: 600px) {
 
 #add{
     width: 70px;
@@ -136,13 +136,13 @@ table{
 .BODY{
     width: 599px;
     height: 600px;
-    margin-left: 20px;
+    margin-left: 5px;
 }
 
 
 
 img{
-   margin-left: 150px;
+   margin-left: 100px;
 
 }
 body, html{
