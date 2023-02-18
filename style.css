@@ -95,7 +95,7 @@ img{
 body, html{
     height: 100%;
 }
-@media (min-width: 600px) {
+@media (max-width: 600px) {
 
 #add{
     width: 70px;
